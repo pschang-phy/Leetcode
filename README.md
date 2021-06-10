@@ -11,3 +11,4 @@ Leetcode Practice
 | [1476](1476) | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) |
 | [1689](1689) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |
 | [1769](1769) | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
+| [1828](1828) | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) |
