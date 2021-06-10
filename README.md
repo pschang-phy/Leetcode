@@ -10,3 +10,4 @@ Leetcode Practice
 | [1379](1379) | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) |
 | [1476](1476) | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) |
 | [1689](1689) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |
+| [1769](1769) | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
