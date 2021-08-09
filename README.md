@@ -6,6 +6,7 @@ Leetcode Practice
 |      #       |                                                            Problems in LeetCode                                                             |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
 | [2](2) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
+| [535](535) | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) |
 | [807](807) | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) |
 | [1038](1038) | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) |
 | [1282](1282) | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) |
